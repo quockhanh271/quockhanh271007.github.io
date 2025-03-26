@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sự Nghiệp Messi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Sự Nghiệp Của Messi</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang Chủ</a></li>
+                <li><a href="career.html">Sự Nghiệp</a></li>
+                <li><a href="achievements.html">Thành Tích</a></li>
+                <li><a href="gallery.html">Bộ Sưu Tập</a></li>
+                <li><a href="contact.html">Liên Hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Hành Trình Sự Nghiệp</h2>
+        <img src="images/messi-career.jpg" alt="Messi thi đấu">
+        <p>Messi bắt đầu sự nghiệp tại Barcelona năm 2000 và trở thành huyền thoại.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - Website về Lionel Messi</p>
+    </footer>
+
+</body>
+</html>

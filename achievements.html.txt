@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thành Tích Messi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Thành Tích Của Messi</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang Chủ</a></li>
+                <li><a href="career.html">Sự Nghiệp</a></li>
+                <li><a href="achievements.html">Thành Tích</a></li>
+                <li><a href="gallery.html">Bộ Sưu Tập</a></li>
+                <li><a href="contact.html">Liên Hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Những Danh Hiệu</h2>
+        <ul>
+            <li>8 Quả Bóng Vàng</li>
+            <li>Vô địch World Cup 2022</li>
+            <li>4 Champions League</li>
+            <li>10 La Liga</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - Website về Lionel Messi</p>
+    </footer>
+
+</body>
+</html>
